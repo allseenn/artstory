@@ -9,3 +9,23 @@
 – Итоговый макет необходимо прислать в формате JPG или PNG.
 
 Примеры выполнения задания доступны по ссылке: https://ru.pinterest.com/geekbrainsdesignhistory/3-урок-модернизм-история-дизайна-с-geekbrains/
+
+## Решение
+
+Гитхаб: https://github.com/allseenn/artstory/tree/main/03.Tasks
+
+[Решение](https://github.com/allseenn/artstory/blob/main/03.Tasks/swiss.png) выполнено полностью в [векторном](https://github.com/allseenn/artstory/blob/main/03.Tasks/swiss.svg) формате с помощью [Figma](https://www.figma.com).
+
+Страницы проекта Figma экспортированы в [PDF-файл](https://github.com/allseenn/artstory/blob/main/03.Tasks/figma.pdf)
+
+В качестве предмета промдизайна выбран "Швейцарский нож".
+
+Придерживался стилистики и цветовой гаммы швейцарского модернизма времен Второй мировой войны. 
+
+Используется 3 основных цвета: белый, черный, красный. Плюс градация серого, как комбинация черного и белого цветов.
+
+3 стиля текста: Заголовок, подзаголовки и текст.
+
+Сетку Мюллера-Брокманна создана с помощью grid системы Figma, на основе [макета](https://github.com/allseenn/artstory/blob/main/03.Tasks/grid.png) из задания, с соблюдением размеров.
+
+По сетке выстроены компоненты композиции.
