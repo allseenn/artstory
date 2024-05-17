@@ -12,5 +12,9 @@ https://gb.ru/lessons/419222/homework
 - Б) Эскиз скамейки. Стиль: постмодернизм (предметный дизайн и дизайн среды)
 - В) Иконка для приложения по заказу еды. Можно взять одну из существующий компании или придумать свою. (цифровой дизайн) Стиль: модернизм
 
+[https://github.com/allseenn/artstory/blob/main/06.Tasks/Rostics.pdf](https://github.com/allseenn/artstory/blob/main/06.Tasks/Rostics.pdf)
+
 2. До воркшопа подберите к выбранной задаче минимум 5 подходящих референсов и соберите мудборд. Он пригодится нам для дальнейшей работы на финальном занятии.
+
+[https://github.com/allseenn/artstory/blob/main/06.Tasks/reference.pdf](https://github.com/allseenn/artstory/blob/main/06.Tasks/reference.pdf)
 
